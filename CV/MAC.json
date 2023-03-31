@@ -1,0 +1,237 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Daniel",
+      "surnames": "Garcia Jones",
+      "title": "Engineering Manager, Team Lead",
+      "description": "I am an **Engineering Manager** focused on empowering development teams applying agile frameworks. I have more than 15 years of IT experience (including Java/J2EE application development, SAP technologies, Mobile App Development, System Architect and Pre-sales). After several years working in Consultancy, I decided to shift and decided to work for product scale-ups since 2018.\nI am actually searching for new opportunities to manage remote autonomous teams.\n",
+      "avatar": {
+        "alt": "avatar_dgj_dos_edit.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/a2460e48-94a1-4472-8632-dcfb9d2362fb_avatar_dgj_dos_edit.png"
+      },
+      "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://danielgarciajones.web.app/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/danielgj"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/danielgarjones"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/dgarciaj/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "I love music",
+        "fact": "I love music since I learnt how to play my mother's vinyls in the player. With 4 years I was tired of dancing I will survive on my parent's living house.\nNow I play in band called __Teniente Dan__ that plays mostly 70's rock and blues covers. You can check it visiting their [website](https://teniente-dan-web.web.app/). "
+      },
+      {
+        "topic": "I am learning photography",
+        "fact": "I've always have cameras around me but discovering @chocotuits was a life changer. I'm trying to find my own view and now I am almost always carrying my camera"
+      },
+      {
+        "topic": "I try to launch my own company only after 1 year working on IT... and it failed",
+        "fact": "When I was working at my first company one old-time friend suggest me to assist him developing a ERP for a very specific kind of company. During that time a company wanted to hire me but I convinced them to hire my company instead (that will send me and only me to that specific project).\nWe never managed to finish the ERP but we develop some small solutions (TPV, DMS, CMS) for small companies. We shifted to body shopping having up to 6 employees that got paid even when the founders didn't.\nAfter some many years struggling with a not regular cash flow, I decided to quit and joined one of our customers back then."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Sololearn",
+          "image": {
+            "alt": "SoloLearn_logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/652da7e3-7b03-4bad-9ed8-00fbf5014a03_sololearn_logo.svg"
+          },
+          "URL": "https://www.sololearn.com/"
+        },
+        "roles": [
+          {
+            "name": "Team Tech Lead",
+            "startDate": "2021-11-01",
+            "finishDate": "2023-03-01",
+            "challenges": [
+              {
+                "description": "Team Lead of a full-remote international  scaleup that provides learning opportunities of programming languages  to everyone via a gamified duolingo-like mobile app managing teams with members located all over the world with a mixed set of skills.\n\nI've been managing 2 different teams there:\n* Activation (Onboarding)\n* Habit Formation\n\nThis has been my first full-remote experience. One of the greatest challenges was to deal with cultural shock of working with Armenian engineers (culture pretty different to what I was used to).\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Bdeo",
+          "image": {
+            "alt": "images.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/137c8e8d-3e11-44a6-bbdf-463d579b319e_images.png"
+          },
+          "URL": "https://bdeo.io/en/"
+        },
+        "roles": [
+          {
+            "name": "Team Lead",
+            "startDate": "2018-12-01",
+            "finishDate": "2021-11-01",
+            "challenges": [
+              {
+                "description": "I joined the company in an early stage to help the Founder and CTO to apply best practices and help him to transform the MVP into a robust solution. \nI managed to adopt agile practices in the development team, hire the resources we were lacking off and to adopt Scrum and TDD approaches.\nI was also involved in the process of becoming a scale up, but up to a point I was not so involved in the strategic decisions so I decided to change in search of other opportunities and learning experiences.\nI've experienced first hand the process of growing a company from 12 to 100, setting up a culture, shifting to work data-driven and with the pressure/advice of a board of investors."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "DynamoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Professional Scrum Product Owner (PSPO I)",
+        "startDate": "2018-11-01",
+        "institution": {
+          "name": "Scrum.org",
+          "description": "Level I of official Scrum.org Scrum Product Owner training and certification",
+          "URL": "https://www.scrum.org/user/200027",
+          "image": {
+            "alt": "badge-pspoi.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/713f9069-f378-4bd5-bdae-bc9bfd411645_badge-pspoi.svg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Professional Scrum Master I",
+        "startDate": "2016-10-01",
+        "institution": {
+          "name": "Scrum.org",
+          "description": "Level I of the official Scrum Master certification provided by Scrum.org",
+          "URL": "https://www.scrum.org/user/200027",
+          "image": {
+            "alt": "badge-psmi.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/89d8af1e-ee1c-4b30-a9d6-cb0676e1bc5e_badge-psmi.svg"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/dgarciaj/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Engineering Management"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
