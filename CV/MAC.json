@@ -360,6 +360,36 @@
         }
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Full Stack Web Developer Nanodegree",
+        "startDate": "2019-01-01",
+        "finishDate": "2019-04-01",
+        "institution": {
+          "name": "Udacity",
+          "description": "Learn to design and develop powerful modern web applications that form the foundation for the apps, websites, and systems that people and businesses use every day.",
+          "URL": "https://graduation.udacity.com/confirm/D23R6TD3",
+          "image": {
+            "alt": "udacity-tt-logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/1b0e948e-0046-4810-bbbb-b4d266407c5d_udacity-tt-logo.svg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "System Telecommunications Engineer Degree",
