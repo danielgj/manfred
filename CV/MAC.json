@@ -358,6 +358,21 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/89d8af1e-ee1c-4b30-a9d6-cb0676e1bc5e_badge-psmi.svg"
           }
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "System Telecommunications Engineer Degree",
+        "startDate": "2001-09-01",
+        "finishDate": "2004-01-01",
+        "institution": {
+          "name": "Carlos III University (Madrid)",
+          "URL": "https://www.uc3m.es/Inicio",
+          "image": {
+            "alt": "compartir+(2).jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/16aacb90-a57d-4d5d-be18-e33d2f8e3d8b_compartir(2).jpg"
+          }
+        }
       }
     ]
   },
