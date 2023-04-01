@@ -390,6 +390,22 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "SAFe 4.0 Agilist",
+        "startDate": "2017-03-01",
+        "finishDate": "2018-03-01",
+        "institution": {
+          "name": "Scaled Agile Inc",
+          "description": "Expert on SAFe principles and techniques. SAFe is one FWK to scale Agile in big corporations.",
+          "URL": "https://community.scaledagile.com/community/apex/PrintAchievement?aid=a0td0000009DPAMAA4&aaid=a0r0W00000Aq6CuQAJ",
+          "image": {
+            "alt": "SAFe® Agilist.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/48826b12-1dd1-4fdb-b823-5753560b8dcb_safe-agilist.jpg"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "System Telecommunications Engineer Degree",
