@@ -322,6 +322,39 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "EventPoints",
+          "description": "Web application to search and display IT events around you.\nI was part of the team building this Open Source tool built by Open Source Weekend community",
+          "URL": "https://github.com/OSWeekends/EventPoints",
+          "image": {
+            "alt": "Captura de pantalla 2023-04-01 a las 10.22.49.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/6579eab5-b691-4c65-ab54-208219c54465_captura-de-pantalla-.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-01-01",
+            "finishDate": "2019-07-01",
+            "competences": [
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Scrapy",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
