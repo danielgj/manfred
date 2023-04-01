@@ -360,6 +360,27 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Multiplatform Mobile App Development with Web Technologies",
+        "startDate": "2016-06-01",
+        "institution": {
+          "name": "Coursera",
+          "description": "App development using Cordova Framework",
+          "URL": "https://www.coursera.org/account/accomplishments/verify/Y6P7ZCU2AH8R",
+          "image": {
+            "alt": "descarga.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/139963ac-ea43-4570-a16c-941d83f52ece_descarga.svg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Cordova",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Full Stack Web Developer Nanodegree",
