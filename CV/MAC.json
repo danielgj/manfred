@@ -245,6 +245,45 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Grupo Delaware",
+          "image": {
+            "alt": "grupo-delaware-squarelogo-1476736611924.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/829585be-1a53-4c32-b4a6-3bdb1939b454_grupo-delaware-squar.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Jr. Consultant",
+            "startDate": "2005-01-01",
+            "finishDate": "2006-09-01",
+            "challenges": [
+              {
+                "description": "Java developer working in projects for Vodafone and Orange."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSP",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Struts",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
