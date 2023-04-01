@@ -285,6 +285,44 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Food Planner",
+          "description": "Android app to create shared food plans in order to get a healthy way of life and be able to plan in advance grocery list and batch cooking. It has the same name as an actual application but it is a different one.\nThis application was mostly used by my family and friends. Android version of it is no longer available on Google Play but I started its web version.",
+          "URL": "https://apkcombo.com/foodplanner/com.lulidan.foodplanner/",
+          "image": {
+            "alt": "Captura de pantalla 2023-04-01 a las 10.14.18.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/74e84398-e760-4208-957f-153f6d14562e_captura-de-pantalla-.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-01-01",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Android SDK",
+                "type": "technology"
+              },
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
