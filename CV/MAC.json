@@ -194,6 +194,57 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "ByG Soluciones",
+          "image": {
+            "alt": "1519889732876.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/cd8f7d42-795d-438d-8445-b90d323a1dcf_1519889732876.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "IT Director",
+            "startDate": "2005-06-01",
+            "finishDate": "2011-03-01",
+            "challenges": [
+              {
+                "description": "In 2005 I founded ByG Soluciones, a technology and business consulting firm that was born as a result of the effort, enthusiasm and previous professional experience of its founding partners.\n\nIt offered a comprehensive portfolio of customized services in which the main pillar was technology consulting:\n\n * Implementation of ERP-CRM-BPM-KM solutions.\n * Tailor-made developments.\n * Consulting and development in SAP Netweaver environment.\n * Outsourcing.\n * Applications and Systems Maintenance.\n * Internet Services."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "Drupal",
+                "type": "technology"
+              },
+              {
+                "name": "J2EE",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Joomla",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
