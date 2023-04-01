@@ -455,6 +455,17 @@
         }
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Electronic Signature and Digital Billing Expert",
+        "startDate": "2008-09-01",
+        "finishDate": "2009-02-01",
+        "institution": {
+          "name": "UCM - Cepade",
+          "description": "Training about digital signature and e-billing european standards"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "System Telecommunications Engineer Degree",
