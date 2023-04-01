@@ -356,6 +356,30 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "My code went to the Artic Vault",
+          "description": "Some of my commited code went to the Github Arctic Vault",
+          "URL": "https://github.com/danielgj?tab=achievements",
+          "image": {
+            "alt": "arctic-code-vault-contributor-default.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/4f3fa092-d5c0-4e2e-8341-6fbf355b92b4_arctic-code-vault-co.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2020-02-01",
+        "relatedCompetences": [
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Github"
+        ]
+      }
     ]
   },
   "knowledge": {
