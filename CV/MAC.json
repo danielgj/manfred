@@ -362,12 +362,12 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Multiplatform Mobile App Development with Web Technologies",
-        "startDate": "2016-06-01",
+        "name": "Full Stack Web Development",
+        "startDate": "2016-09-01",
         "institution": {
           "name": "Coursera",
-          "description": "App development using Cordova Framework",
-          "URL": "https://www.coursera.org/account/accomplishments/verify/Y6P7ZCU2AH8R",
+          "description": "\n* Server-side Development with NodeJS\n* Front-End Web UI Frameworks and Tools\n* Front-End JavaScript Frameworks: AngularJS\n* HTML, CSS and JavaScript\n* Full Stack Web Development Specialization Capstone Project\n* Multiplatform Mobile App Development with Web Technologies",
+          "URL": "https://www.coursera.org/account/accomplishments/specialization/HECEFLSYEGZL",
           "image": {
             "alt": "descarga.svg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/139963ac-ea43-4570-a16c-941d83f52ece_descarga.svg"
@@ -375,7 +375,35 @@
         },
         "linkedCompetences": [
           {
+            "name": "AngularJS",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
             "name": "Cordova",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Mongoose",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
             "type": "technology"
           }
         ]
