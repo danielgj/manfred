@@ -462,7 +462,11 @@
         "finishDate": "2009-02-01",
         "institution": {
           "name": "UCM - Cepade",
-          "description": "Training about digital signature and e-billing european standards"
+          "description": "Training about digital signature and e-billing european standards",
+          "image": {
+            "alt": "3-2016-07-21-Marca UCM logo negro.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/f139542d-c344-46d0-bafb-4bc7d909be56_3-2016-07-21-marca-u.png"
+          }
         }
       },
       {
