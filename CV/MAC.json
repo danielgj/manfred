@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -139,18 +138,72 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Unisys",
+          "image": {
+            "alt": "Unisys_logo_2022.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/5c6d7ab9-3d90-4df1-bcb8-3c9ddb33a6b3_unisys_logo_2022.png"
+          },
+          "URL": "https://www.unisys.com/"
+        },
+        "roles": [
+          {
+            "name": "Business Analyst",
+            "startDate": "2011-03-01",
+            "finishDate": "2018-12-01",
+            "challenges": [
+              {
+                "description": "I worked as consultant for a worldwide company starting on development projects mostly focused on building Web interfaces against SAP backends for corporations like Endesa and Repsol. From that evolved into mobile app development in the early stages of iOS and Android until leading the Mobility Center of Excellence for EMEA in the company."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "J2EE",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "SAP",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -231,7 +284,6 @@
       "preferredRoles": [
         "Engineering Management"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
