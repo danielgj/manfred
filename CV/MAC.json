@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -45,7 +46,7 @@
       },
       {
         "topic": "I am learning photography",
-        "fact": "I've always have cameras around me but discovering @chocotuits was a life changer. I'm trying to find my own view and now I am almost always carrying my camera"
+        "fact": "I've always have cameras around me but discovering [@chocotuits](https://twitter.com/chocotuits) was a life changer. I'm trying to find my own view and now I am almost always carrying my camera"
       },
       {
         "topic": "I try to launch my own company only after 1 year working on IT... and it failed",
@@ -385,10 +386,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -572,6 +575,7 @@
         "finishDate": "2004-01-01",
         "institution": {
           "name": "Carlos III University (Madrid)",
+          "description": "",
           "URL": "https://www.uc3m.es/Inicio",
           "image": {
             "alt": "compartir+(2).jpg",
@@ -594,6 +598,7 @@
       "preferredRoles": [
         "Engineering Management"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
