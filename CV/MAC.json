@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,34 +11,16 @@
       "title": "Engineering Manager, Team Lead",
       "description": "I am an **Engineering Manager** focused on empowering development teams applying agile frameworks with **more than 15 years of IT experience** (including Java/J2EE application development, SAP technologies, Mobile App Development, System Architect, and Pre-sales). After several years working in Consultancy, I decided to shift and decided to work for product scale-ups in 2018.\nI am actually searching for new opportunities to manage remote autonomous teams.\n",
       "avatar": {
-        "alt": "avatar_dgj_dos_edit.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/a2460e48-94a1-4472-8632-dcfb9d2362fb_avatar_dgj_dos_edit.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/a2460e48-94a1-4472-8632-dcfb9d2362fb_avatar_dgj_dos_edit.png",
+        "alt": "avatar_dgj_dos_edit.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "https://danielgarciajones.web.app/"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/danielgj"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/danielgarjones"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/dgarciaj/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "I love music",
@@ -52,6 +34,12 @@
         "topic": "I tried to launch my own company only after 1 year working on IT... and I failed",
         "fact": "When I was working at my first company one old-time friend suggested me to assist him in developing an ERP for a very specific kind of company. During that time, a company wanted to hire me but I convinced them to hire my company instead (that will send me and only me to that specific project). We never managed to finish the ERP but we developed some software solutions (TPV, DMS, CMS) for small companies. We shifted to body shopping having up to 6 employees that got paid even when the founders didn't. After some years of struggling with a not regular cash flow, I decided to quit and joined one of our customers back then."
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://danielgarciajones.web.app/"
+      }
     ]
   },
   "experience": {
@@ -60,8 +48,8 @@
         "organization": {
           "name": "Sololearn",
           "image": {
-            "alt": "SoloLearn_logo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/652da7e3-7b03-4bad-9ed8-00fbf5014a03_sololearn_logo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/652da7e3-7b03-4bad-9ed8-00fbf5014a03_sololearn_logo.svg",
+            "alt": "SoloLearn_logo.svg"
           },
           "URL": "https://www.sololearn.com/"
         },
@@ -96,8 +84,8 @@
         "organization": {
           "name": "Bdeo",
           "image": {
-            "alt": "images.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/137c8e8d-3e11-44a6-bbdf-463d579b319e_images.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/137c8e8d-3e11-44a6-bbdf-463d579b319e_images.png",
+            "alt": "images.png"
           },
           "URL": "https://bdeo.io/en/"
         },
@@ -144,8 +132,8 @@
         "organization": {
           "name": "Unisys",
           "image": {
-            "alt": "Unisys_logo_2022.svg.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/5c6d7ab9-3d90-4df1-bcb8-3c9ddb33a6b3_unisys_logo_2022.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/5c6d7ab9-3d90-4df1-bcb8-3c9ddb33a6b3_unisys_logo_2022.png",
+            "alt": "Unisys_logo_2022.svg.png"
           },
           "URL": "https://www.unisys.com/"
         },
@@ -200,8 +188,8 @@
         "organization": {
           "name": "ByG Soluciones",
           "image": {
-            "alt": "1519889732876.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/cd8f7d42-795d-438d-8445-b90d323a1dcf_1519889732876.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/cd8f7d42-795d-438d-8445-b90d323a1dcf_1519889732876.jpeg",
+            "alt": "1519889732876.jpeg"
           }
         },
         "roles": [
@@ -251,8 +239,8 @@
         "organization": {
           "name": "Grupo Delaware",
           "image": {
-            "alt": "grupo-delaware-squarelogo-1476736611924.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/829585be-1a53-4c32-b4a6-3bdb1939b454_grupo-delaware-squar.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/829585be-1a53-4c32-b4a6-3bdb1939b454_grupo-delaware-squar.png",
+            "alt": "grupo-delaware-squarelogo-1476736611924.png"
           }
         },
         "roles": [
@@ -294,8 +282,8 @@
           "description": "Android app to create shared food plans in order to get a healthy way of life and be able to plan in advance grocery list and batch cooking. It has the same name as an actual application but it is a different one.\nThis application was mostly used by my family and friends. Android version of it is no longer available on Google Play but I started its web version.",
           "URL": "https://apkcombo.com/foodplanner/com.lulidan.foodplanner/",
           "image": {
-            "alt": "Captura de pantalla 2023-04-01 a las 10.14.18.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/74e84398-e760-4208-957f-153f6d14562e_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/74e84398-e760-4208-957f-153f6d14562e_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla 2023-04-01 a las 10.14.18.png"
           }
         },
         "type": "sideProject",
@@ -330,8 +318,8 @@
           "description": "Web application to search and display IT events around you.\nI was part of the team building this Open Source tool built by Open Source Weekend community",
           "URL": "https://github.com/OSWeekends/EventPoints",
           "image": {
-            "alt": "Captura de pantalla 2023-04-01 a las 10.22.49.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/6579eab5-b691-4c65-ab54-208219c54465_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/6579eab5-b691-4c65-ab54-208219c54465_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla 2023-04-01 a las 10.22.49.png"
           }
         },
         "type": "openSource",
@@ -339,7 +327,6 @@
           {
             "name": "Developer",
             "startDate": "2017-01-01",
-            "finishDate": "2019-07-01",
             "competences": [
               {
                 "name": "NodeJS",
@@ -353,7 +340,8 @@
                 "name": "Scrapy",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2019-07-01"
           }
         ]
       }
@@ -365,20 +353,20 @@
           "description": "Some of my commited code went to the Github Arctic Vault",
           "URL": "https://github.com/danielgj?tab=achievements",
           "image": {
-            "alt": "arctic-code-vault-contributor-default.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/4f3fa092-d5c0-4e2e-8341-6fbf355b92b4_arctic-code-vault-co.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/4f3fa092-d5c0-4e2e-8341-6fbf355b92b4_arctic-code-vault-co.png",
+            "alt": "arctic-code-vault-contributor-default.png"
           }
         },
         "type": "achievement",
         "publishingDate": "2020-02-01",
+        "tags": [
+          "Github"
+        ],
         "relatedCompetences": [
           {
             "name": "NodeJS",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Github"
         ]
       }
     ]
@@ -397,25 +385,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "DynamoDB",
+          "name": "Android",
           "type": "technology"
         }
       },
@@ -427,31 +403,13 @@
       },
       {
         "skill": {
-          "name": "REST",
+          "name": "C#",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "XML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -463,13 +421,127 @@
       },
       {
         "skill": {
+          "name": "DynamoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "J2EE",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JAVA",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MERN Stack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
           "type": "technology"
         }
       },
@@ -487,67 +559,13 @@
       },
       {
         "skill": {
-          "name": "PostgreSQL",
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Android",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "nestJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "J2EE",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Gitflow",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C#",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kotlin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
+          "name": "XML",
           "type": "technology"
         }
       },
@@ -559,77 +577,62 @@
       },
       {
         "skill": {
-          "name": "Github Actions",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MERN Stack",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "YAML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "nestJS",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Professional Scrum Product Owner (PSPO I)",
-        "startDate": "2018-11-01",
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Electronic Signature and Digital Billing Expert",
+        "startDate": "2008-09-01",
         "institution": {
-          "name": "Scrum.org",
-          "description": "Level I of official Scrum.org Scrum Product Owner training and certification",
-          "URL": "https://www.scrum.org/user/200027",
+          "name": "UCM - Cepade",
+          "description": "Training about digital signature and e-billing european standards",
           "image": {
-            "alt": "badge-pspoi.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/713f9069-f378-4bd5-bdae-bc9bfd411645_badge-pspoi.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/f139542d-c344-46d0-bafb-4bc7d909be56_3-2016-07-21-marca-u.png",
+            "alt": "3-2016-07-21-Marca UCM logo negro.png"
           }
-        }
+        },
+        "finishDate": "2009-02-01"
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Professional Scrum Master I",
-        "startDate": "2016-10-01",
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Full Stack Web Developer Nanodegree",
+        "startDate": "2019-01-01",
         "institution": {
-          "name": "Scrum.org",
-          "description": "Level I of the official Scrum Master certification provided by Scrum.org",
-          "URL": "https://www.scrum.org/user/200027",
+          "name": "Udacity",
+          "description": "Learn to design and develop powerful modern web applications that form the foundation for the apps, websites, and systems that people and businesses use every day.",
+          "URL": "https://graduation.udacity.com/confirm/D23R6TD3",
           "image": {
-            "alt": "badge-psmi.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/89d8af1e-ee1c-4b30-a9d6-cb0676e1bc5e_badge-psmi.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/1b0e948e-0046-4810-bbbb-b4d266407c5d_udacity-tt-logo.svg",
+            "alt": "udacity-tt-logo.svg"
           }
-        }
+        },
+        "finishDate": "2019-04-01",
+        "linkedCompetences": [
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "certification",
@@ -641,8 +644,8 @@
           "description": "\n* Server-side Development with NodeJS\n* Front-End Web UI Frameworks and Tools\n* Front-End JavaScript Frameworks: AngularJS\n* HTML, CSS and JavaScript\n* Full Stack Web Development Specialization Capstone Project\n* Multiplatform Mobile App Development with Web Technologies",
           "URL": "https://www.coursera.org/account/accomplishments/specialization/HECEFLSYEGZL",
           "image": {
-            "alt": "descarga.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/139963ac-ea43-4570-a16c-941d83f52ece_descarga.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/139963ac-ea43-4570-a16c-941d83f52ece_descarga.svg",
+            "alt": "descarga.svg"
           }
         },
         "linkedCompetences": [
@@ -681,80 +684,84 @@
         ]
       },
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Full Stack Web Developer Nanodegree",
-        "startDate": "2019-01-01",
-        "finishDate": "2019-04-01",
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Professional Scrum Master I",
+        "startDate": "2016-10-01",
         "institution": {
-          "name": "Udacity",
-          "description": "Learn to design and develop powerful modern web applications that form the foundation for the apps, websites, and systems that people and businesses use every day.",
-          "URL": "https://graduation.udacity.com/confirm/D23R6TD3",
+          "name": "Scrum.org",
+          "description": "Level I of the official Scrum Master certification provided by Scrum.org",
+          "URL": "https://www.scrum.org/user/200027",
           "image": {
-            "alt": "udacity-tt-logo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/1b0e948e-0046-4810-bbbb-b4d266407c5d_udacity-tt-logo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/89d8af1e-ee1c-4b30-a9d6-cb0676e1bc5e_badge-psmi.svg",
+            "alt": "badge-psmi.svg"
           }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Flask",
-            "type": "technology"
-          },
-          {
-            "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Professional Scrum Product Owner (PSPO I)",
+        "startDate": "2018-11-01",
+        "institution": {
+          "name": "Scrum.org",
+          "description": "Level I of official Scrum.org Scrum Product Owner training and certification",
+          "URL": "https://www.scrum.org/user/200027",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/713f9069-f378-4bd5-bdae-bc9bfd411645_badge-pspoi.svg",
+            "alt": "badge-pspoi.svg"
           }
-        ]
+        }
       },
       {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "SAFe 4.0 Agilist",
         "startDate": "2017-03-01",
-        "finishDate": "2018-03-01",
         "institution": {
           "name": "Scaled Agile Inc",
           "description": "Expert on SAFe principles and techniques. SAFe is one FWK to scale Agile in big corporations.",
           "URL": "https://community.scaledagile.com/community/apex/PrintAchievement?aid=a0td0000009DPAMAA4&aaid=a0r0W00000Aq6CuQAJ",
           "image": {
-            "alt": "SAFe® Agilist.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/48826b12-1dd1-4fdb-b823-5753560b8dcb_safe-agilist.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/48826b12-1dd1-4fdb-b823-5753560b8dcb_safe-agilist.jpg",
+            "alt": "SAFe® Agilist.jpg"
           }
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Electronic Signature and Digital Billing Expert",
-        "startDate": "2008-09-01",
-        "finishDate": "2009-02-01",
-        "institution": {
-          "name": "UCM - Cepade",
-          "description": "Training about digital signature and e-billing european standards",
-          "image": {
-            "alt": "3-2016-07-21-Marca UCM logo negro.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/f139542d-c344-46d0-bafb-4bc7d909be56_3-2016-07-21-marca-u.png"
-          }
-        }
+        },
+        "finishDate": "2018-03-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "System Telecommunications Engineer Degree",
         "startDate": "2001-09-01",
-        "finishDate": "2004-01-01",
         "institution": {
           "name": "Carlos III University (Madrid)",
-          "description": "",
           "URL": "https://www.uc3m.es/Inicio",
           "image": {
-            "alt": "compartir+(2).jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/16aacb90-a57d-4d5d-be18-e33d2f8e3d8b_compartir(2).jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/01/16aacb90-a57d-4d5d-be18-e33d2f8e3d8b_compartir(2).jpg",
+            "alt": "compartir+(2).jpg"
           }
+        },
+        "finishDate": "2004-01-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacity for self-management ",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team management",
+          "type": "practice"
         }
       }
     ]
@@ -763,26 +770,34 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/dgarciaj/"
+          "URL": "https://www.linkedin.com/in/dgarciaj/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/danielgj",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/danielgarjones",
+          "type": "other"
         }
-      ]
-    },
-    "preferences": {
-      "preferredRoles": [
-        "Engineering Management"
+      ],
+      "contactMails": [
+        "danielgj@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "625625009",
+          "countryCode": "+34"
+        }
       ]
     },
     "status": "searchingActively"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "NodeJS",
-        "type": "technology"
-      },
-      {
-        "name": "HTML",
+        "name": "Angular2+",
         "type": "technology"
       },
       {
@@ -790,12 +805,26 @@
         "type": "technology"
       },
       {
-        "name": "Angular2+",
+        "name": "HTML",
         "type": "technology"
       },
       {
         "name": "JavaScript",
         "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I love to help teams to achieve higher grades of performance, helping them to understand and adopt the practices best fits them and to make IC to grow and progress in their career.\nMy ideal job should allow me to be autonomous and empowered to apply different practices to improve the performance and morale of the team and take our own decisions. \nWould be close to modern technologies and  focused on building something I can see myself using or sharing. \nCommunication and transparency is key also. \nMy results should be measured with evidences.",
+    "goodPractices": "As an **Engineering Manager** I prioritise listening over speaking. I like to have a shared agenda for the 1:1 session on my reports where at least 90% of the topics are driven by them. If we don't have something to talk about once, we skip the meeting. If we don't have something to talk about twice I start to suspect.\n\nAs as **Team Lead** I am obsessed with measuring everything to track (and demonstrate) team performance. In the last years I've managed to program less and less, the engineers in the team do that much better than me.\n\nI promote sharing knowledge on my teams. Everyone can teach or learn something new, and this should happen in the work arena mainly.",
+    "projects": [
+      {
+        "name": "EventPoints"
+      },
+      {
+        "name": "Food Planner"
       }
     ]
   }
