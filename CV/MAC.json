@@ -794,7 +794,8 @@
     },
     "preferences": {
       "preferredRoles": [
-        "Engineering Management"
+        "Engineering Management",
+        "Tech Lead"
       ]
     },
     "status": "searchingActively"
