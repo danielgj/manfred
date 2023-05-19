@@ -792,6 +792,11 @@
         }
       ]
     },
+    "preferences": {
+      "preferredRoles": [
+        "Engineering Management"
+      ]
+    },
     "status": "searchingActively"
   },
   "manfredSpecificData": {
