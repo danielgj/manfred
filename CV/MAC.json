@@ -46,6 +46,40 @@
     "jobs": [
       {
         "organization": {
+          "name": "Blink",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/19/e3378cfd-c20c-494a-9786-86677c352ec5_blink-logo-vector-(1.png",
+            "alt": "Blink-logo-vector (1) 1.png"
+          },
+          "URL": "https://www.blinkmaterials.com/"
+        },
+        "roles": [
+          {
+            "name": "Tech Lead",
+            "startDate": "2023-05-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "nestJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Sololearn",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/652da7e3-7b03-4bad-9ed8-00fbf5014a03_sololearn_logo.svg",
