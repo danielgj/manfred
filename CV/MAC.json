@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -36,6 +36,18 @@
       }
     ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/dgarciaj/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/danielgj"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/danielgarjones"
+      },
       {
         "type": "other",
         "URL": "https://danielgarciajones.web.app/"
@@ -139,6 +151,10 @@
                 "type": "technology"
               },
               {
+                "name": "AWS Lambda",
+                "type": "technology"
+              },
+              {
                 "name": "Angular2+",
                 "type": "technology"
               },
@@ -148,10 +164,6 @@
               },
               {
                 "name": "DynamoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Lambda",
                 "type": "technology"
               },
               {
@@ -339,7 +351,7 @@
                 "type": "technology"
               },
               {
-                "name": "Firebase",
+                "name": "Google Firebase",
                 "type": "technology"
               }
             ]
@@ -408,11 +420,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -809,11 +823,11 @@
         },
         {
           "URL": "https://github.com/danielgj",
-          "type": "other"
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/danielgarjones",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
