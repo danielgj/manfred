@@ -216,7 +216,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -267,7 +267,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -306,11 +306,11 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "JSP",
                 "type": "technology"
               },
               {
-                "name": "JSP",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -522,7 +522,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -837,12 +837,6 @@
       ],
       "contactMails": [
         "danielgj@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "625625009",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -851,7 +845,7 @@
         "Tech Lead"
       ]
     },
-    "status": "notAvailable"
+    "status": "searchingActively"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
