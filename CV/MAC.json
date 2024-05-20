@@ -486,12 +486,6 @@
       },
       {
         "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Gitflow",
           "type": "technology"
         }
@@ -505,12 +499,6 @@
       {
         "skill": {
           "name": "Github Actions",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
           "type": "technology"
         }
       },
@@ -559,6 +547,12 @@
       {
         "skill": {
           "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
           "type": "technology"
         }
       },
@@ -860,19 +854,19 @@
         "type": "technology"
       },
       {
-        "name": "Git",
-        "type": "technology"
-      },
-      {
-        "name": "HTML",
-        "type": "technology"
-      },
-      {
-        "name": "JavaScript",
-        "type": "technology"
-      },
-      {
         "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "nestJS",
         "type": "technology"
       }
     ],
