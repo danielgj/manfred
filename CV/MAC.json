@@ -840,6 +840,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Engineering Management",
         "Tech Lead"
