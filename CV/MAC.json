@@ -488,6 +488,18 @@
       },
       {
         "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Android",
           "type": "technology"
         }
@@ -639,6 +651,12 @@
       {
         "skill": {
           "name": "Swagger",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenAPI",
           "type": "technology"
         }
       },
