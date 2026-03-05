@@ -9,7 +9,7 @@
       "name": "Daniel",
       "surnames": "Garcia Jones",
       "title": "Engineering Manager, Team Lead",
-      "description": "As an accomplished **Engineering Manager** with over 15 years of experience in the IT industry, I specialize in empowering development teams through agile frameworks. My extensive expertise spans JavaScript, TypeScript, React, Angular, Java/J2EE application development, SAP technologies, mobile app development, system architecture, and pre-sales. After a successful career in consultancy, I transitioned to product scale-ups in 2018 to focus on driving innovation and growth. I am currently seeking new opportunities to lead remote, autonomous development teams, leveraging my background to deliver impactful solutions.\n",
+      "description": "As an accomplished **Engineering Manager** with over 20 years of experience in the IT industry, I specialize in empowering development teams through agile frameworks. My extensive expertise spans Java/J2EE, JavaScript, TypeScript, React, Angular application development, SAP technologies, mobile app development, system architecture, and pre-sales. After a successful career in consultancy, I transitioned to product scale-ups in 2018 to focus on driving innovation and growth. I am currently seeking new opportunities to lead remote, autonomous development teams, leveraging my background to deliver impactful solutions.\n",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/a2460e48-94a1-4472-8632-dcfb9d2362fb_avatar_dgj_dos_edit.png",
         "alt": "avatar_dgj_dos_edit.png"
@@ -24,7 +24,7 @@
     "interestingFacts": [
       {
         "topic": "I love music",
-        "fact": "As a child, I learned how to play my parents' records on their vinyl player. With 4 years I was tired of dancing I will survive in my parent's living house and back then is when my love for music started, Now I play bass in a band called Teniente Dan that plays mostly 70's rock and blues covers. You can check it by visiting their [website](https://teniente-dan-web.web.app/). "
+        "fact": "As a child, I learned how to play my parents' records on their vinyl player. With 4 years I was tired of dancing I will survive in my parent's living house and back then is when my love for music started, Now I play bass in a band called Mr. Pisto that plays mostly hard rock. You can check it by visiting their [website](https://mrpisto.com/). "
       },
       {
         "topic": "I am learning photography",
@@ -58,6 +58,49 @@
     "jobs": [
       {
         "organization": {
+          "name": "Knowmad mood",
+          "image": {
+            "link": "https://www.knowmadmood.com/dam/jcr:5cab4eee-11a0-42a6-b67d-4d6e0e038bba/knowmad-mood-logo.svg",
+            "alt": "Knowmad mood Logo"
+          },
+          "URL": "https://www.knowmadmood.com/es"
+        },
+        "roles": [
+          {
+            "name": "Technical Lead",
+            "startDate": "2024-10-01",
+            "challenges": [
+              {
+                "description": "Technical Lead for Enterprise Architecture Departments"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "TOGAF",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Blink",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/19/e3378cfd-c20c-494a-9786-86677c352ec5_blink-logo-vector-(1.png",
@@ -69,6 +112,7 @@
           {
             "name": "Tech Lead",
             "startDate": "2023-05-01",
+            "endtDate": "2024-09-01",
             "challenges": [
               {
                 "description": "Tech Lead and Engineering Manager of a Full Stack Development team: Next, Nest.js and AWS stack."
